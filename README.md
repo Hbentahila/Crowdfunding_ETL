@@ -34,21 +34,21 @@ This  mini project was divided into the following subsections:
 
 ## Snapshots of database file:
 
-Category.csv
+Category database
 
-![](Crowfunding/Output/category_db.PNG)
+![Category database Image](Crowfunding/Output/category_db.PNG)
  
-Subcategory.csv
+Subcategory database
 
-![](Crowfunding/Output/subcategory_db.PNG)
+![Subcategory database Image](Crowfunding/Output/subcategory_db.PNG)
  
-Contacts.csv
+Contacts database
 
-![](Crowfunding/Output/contacts_db.PNG)
+![Contacts database Image](Crowfunding/Output/contacts_db.PNG)
  
-campaign.csv
+campaign database
 
-![](Crowfunding/Output/campaign_db.PNG)
+![campaign database Image](Crowfunding/Output/campaign_db.PNG)
 
  
 ## The Entity Relationship Diagram:
