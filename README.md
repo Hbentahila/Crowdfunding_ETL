@@ -36,7 +36,7 @@ This  mini project was divided into the following subsections:
 
 Category database
 
-![Category database Image](Crowfunding/Output/category_db.jpeg)
+![Category database Image](Crowfunding/Output/category_db.PNG)
  
 Subcategory database
 
