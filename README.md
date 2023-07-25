@@ -32,23 +32,23 @@ This  mini project was divided into the following subsections:
  - Create the Crowdfunding Database: Our team collectively worked on crowdfunding database to establish and present the Entity Relationship Diagram (ERD) using Quick DBD (https://www.quickdatabasediagrams.com/)
 - We successfully created the database tables and imported the csv files using the PostgreSQL.
 
-## Snapshots of CSV file:
+## Snapshots of database file:
 
 Category.csv
 
-![](category_db.PNG)
+![](Crowfunding/Output/category_db.PNG)
  
 Subcategory.csv
 
-![](subcategory_db.PNG)
+![](Crowfunding/Output/subcategory_db.PNG)
  
 Contacts.csv
 
-![](contacts_db.PNG)
+![](Crowfunding/Output/contacts_db.PNG)
  
 campaign.csv
 
-![](campaign_db.PNG)
+![](Crowfunding/Output/campaign_db.PNG)
 
  
 ## The Entity Relationship Diagram:
@@ -58,6 +58,7 @@ campaign.csv
 - **subcategory\_id** is the primary key in sub-category dataframe and has **one to many** relationship with the campaign dataframe.
 - Cf\_id is the primary key in the campaign dataframe.
 
- ![](Crowdfunding_ERD.png)
+![](Crowfunding/Output/Crowdfunding_ERD.png)
+
 
 
