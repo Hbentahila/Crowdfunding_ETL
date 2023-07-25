@@ -36,7 +36,7 @@ This  mini project was divided into the following subsections:
 
 Category database
 
-![Category database Image](Crowfunding/Output/category_db.PNG)
+![Category database Image](Crowfunding/Output/category_db.jpeg)
  
 Subcategory database
 
@@ -58,7 +58,7 @@ campaign database
 - **subcategory\_id** is the primary key in sub-category dataframe and has **one to many** relationship with the campaign dataframe.
 - Cf\_id is the primary key in the campaign dataframe.
 
-![](Crowfunding/Output/Crowdfunding_ERD.png)
+![Entity Relationship Diagram](Crowfunding/Output/Crowdfunding_ERD.png)
 
 
 
